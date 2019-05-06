@@ -3,6 +3,7 @@
 <br>
   <i>Mini-project #1</i>: Twitter U.S. Airline Sentiment using Keras and RNNs
   <br>Data source from Kaggle - https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+  <br>GloVe embeddings download link - http://nlp.stanford.edu/data/glove.6B.zip
 <br>
 <br>
   <i>Mini-project #2:</i>
