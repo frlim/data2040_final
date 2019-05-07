@@ -7,7 +7,9 @@
   <br>Write up - https://medium.com/@francesca_lim/twitter-u-s-airline-sentiment-analysis-using-keras-and-rnns-1956f42294ef
 <br>
 <br>
-  <i>Mini-project #2:</i>
+  <i>Mini-project #2:</i>: Transfer Learning Using ResNet50 and CIFAR-10
+  <br>Data source from Keras Datasets: CIFAR-10
+  <br>Write up - https://medium.com/@andrew.dabydeen/transfer-learning-using-resnet50-and-cifar-10-6242ed4b4245
 <br>
 <br>
   <i>Mini-project #3:</i>
