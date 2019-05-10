@@ -12,4 +12,6 @@
   <br>Write up - https://medium.com/@andrew.dabydeen/transfer-learning-using-resnet50-and-cifar-10-6242ed4b4245
 <br>
 <br>
-  <i>Mini-project #3:</i>
+  <i>Mini-project #3:</i>: Watermark Detection using VOC2008 and Keras
+  <br>Data source from Pascal VOC 2008 - http://host.robots.ox.ac.uk/pascal/VOC/voc2008/index.html
+  <br>Write up - https://medium.com/@ryan_murray1/watermark-removal-and-detection-part-i-f17dbf93e886
